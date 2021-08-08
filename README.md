@@ -1,2 +1,2 @@
 # project_ecom
-Django Project
+Django  and React Project
