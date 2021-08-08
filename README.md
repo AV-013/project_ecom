@@ -1,2 +1,2 @@
-# project_ecom
-Django  and React Project
+# project_ecom - React
+React in frontend
